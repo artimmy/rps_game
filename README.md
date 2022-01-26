@@ -1,6 +1,6 @@
 # rps_game
 
-A new Flutter project.
+Basic Rock Paper Scissor game made with flutter.
 
 ## Getting Started
 
